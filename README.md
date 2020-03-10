@@ -1,1 +1,1 @@
-mapbox-react-demo-master
+React - Map
