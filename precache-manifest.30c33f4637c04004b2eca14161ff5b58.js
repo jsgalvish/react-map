@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-map/static/js/2.75e7e679.chunk.js"
   },
   {
-    "revision": "4485ef418cf8d006aa5a4477b883c8e9",
+    "revision": "5b9922f6e321dca0c9effa2b7795018d",
     "url": "/react-map/index.html"
   }
 ];
